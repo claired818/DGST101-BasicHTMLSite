@@ -4,7 +4,7 @@
 
   a {
     /* set the text color to blue here */
-    color: #C289B4;
+    color: #B575A0;
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
 
@@ -27,7 +27,7 @@
 
   header {
     background-color: #694F79;
-    margin: 1rem 0;
+    font-size: 1.25rem;
     padding-left: 1rem;
     text-align: left;
   }
