@@ -14,9 +14,18 @@
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
 
+  header a {
+    color: #995C89;
+  }
+
+  header a:hover {
+    color: #7A466D;
+  }
+
   body {
     /* set the background color here */
     background-color: #462255;
+    margin: 0;
     /* set the text color to black here */
     color: white;
     /* set the font here */
@@ -28,7 +37,7 @@
   header {
     background-color: #694F79;
     font-size: 1.25rem;
-    padding-left: 1rem;
+    padding-left: 0;
     text-align: left;
   }
 
