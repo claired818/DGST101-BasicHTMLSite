@@ -15,11 +15,11 @@
   }
 
   header a {
-    color: #995C89;
+    color: #7A466D;
   }
 
   header a:hover {
-    color: #7A466D;
+    color: #603652;
   }
 
   body {
@@ -37,7 +37,7 @@
   header {
     background-color: #694F79;
     font-size: 1.25rem;
-    padding-left: 0;
+    padding: 0.5rem 1rem;
     text-align: left;
   }
 
